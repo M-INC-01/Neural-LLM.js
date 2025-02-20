@@ -1,6 +1,6 @@
 # NeuralLLM - Libreria per LLM in JavaScript
 
-Implementazione di un Large Language Model in JavaScript puro per Node.js e browser
+Implementazione di un Large Language Model in JavaScript puro per Node.js e browser.
 
 Realizzata da M.INC.
 
