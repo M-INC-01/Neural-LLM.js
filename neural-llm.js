@@ -1,6 +1,7 @@
 'use strict';
 
 /**
+ *© 2025 M.INC. Tutti i diritti riservati. Questo codice non può essere copiato, modificato o distribuito senza permesso."
  * Classe Tensor per operazioni su tensori multidimensionali.
  */
 class Tensor {
