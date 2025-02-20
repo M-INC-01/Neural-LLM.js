@@ -1,6 +1,7 @@
 # NeuralLLM - Libreria per LLM in JavaScript
 
 Implementazione di un Large Language Model in JavaScript puro per Node.js e browser
+Realizzata da M.INC.
 
 ## 🚀 Installazione
 
@@ -128,3 +129,4 @@ downloadAsFile(modelJson, 'model.json');
 
 ## 📄 Licenza
 MIT License
+M.INC.©
