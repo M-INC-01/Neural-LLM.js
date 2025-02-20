@@ -1,0 +1,5 @@
+[
+    {"input": "Ciao", "output": "Ciao! Come posso aiutarti?"},
+    {"input": "Come stai?", "output": "Sono un'IA, non provo emozioni ma funziono bene!"},
+    {"input": "Cosa sai fare?", "output": "Posso rispondere a domande e conversare su vari argomenti."}
+]
