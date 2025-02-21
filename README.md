@@ -7,7 +7,7 @@ Realizzata da M.INC.©
 ## 🚀 Installazione
 
 ```bash
-git clone https://github.com/tuo-utente/neural-llm.git
+git clone https://github.com/M-INC-01/Neural-LLM.js.git
 cd neural-llm
 ```
 
