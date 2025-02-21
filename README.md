@@ -2,7 +2,7 @@
 
 Implementazione di un Large Language Model in JavaScript puro per Node.js e browser.
 
-Realizzata da M.INC.
+Realizzata da M.INC.©
 
 ## 🚀 Installazione
 
